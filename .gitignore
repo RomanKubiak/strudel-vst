@@ -1,0 +1,9 @@
+# Build outputs
+Builds/LinuxMakefile/build/
+
+# Compiler intermediates
+*.o
+*.d
+
+# OS clutter
+.DS_Store

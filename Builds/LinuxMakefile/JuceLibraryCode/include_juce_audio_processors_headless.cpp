@@ -1,0 +1,2 @@
+#include "AppConfig.h"
+#include <juce_audio_processors_headless/juce_audio_processors_headless.cpp>
